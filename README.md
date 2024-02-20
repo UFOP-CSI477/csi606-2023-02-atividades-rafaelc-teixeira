@@ -3,11 +3,11 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Rafael Caetano Teixeira
+- Matrícula: 20.1.8105
+- Curso: Sistemas da Informação
+- Semestre/Ano correntes: 6º
+- Link para o seu GitHub: https://github.com/rafaelc-teixeira
 
 ## [Projeto final:](./Projeto/README.md)
 

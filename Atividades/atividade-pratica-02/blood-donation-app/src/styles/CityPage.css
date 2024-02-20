@@ -1,0 +1,37 @@
+.city-page {
+    background-color: #ffffff; /* White background */
+    color: #000000; /* Black text */
+    font-family: sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .city-page h1 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .city-page label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .city-page input,
+  .city-page select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 100%;
+  }
+  
+  .city-page button {
+    background-color: #007bff; /* Blue button */
+    color: #ffffff; /* White text */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
